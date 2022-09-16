@@ -1,2 +1,2 @@
-# Machine-learning-week-1
+# Machine-learning
 print('hello')
